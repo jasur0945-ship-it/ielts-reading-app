@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; background: #f9f9f9; color: #333; }
+#app { max-width: 800px; margin: auto; background: white; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+#timer { font-size: 1.2em; margin-bottom: 20px; }
+.passage-text { margin-bottom: 30px; }
+.question-block { margin-bottom: 25px; }
+.explanation { font-size: 0.9em; color: #555; display: none; margin-top: 5px; }
+.correct { color: green; }
+.incorrect { color: red; }
+#submit-btn { padding: 10px 20px; font-size: 1em; }
